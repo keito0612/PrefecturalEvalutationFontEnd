@@ -3,7 +3,7 @@ module.exports = {
   content: [
     "./src/components/page/Login.tsx",
     "./src/components/page/Signup.tsx",
-    "./src/components/NavBar.tsx",
+    "./src/components/NavBarConponent.tsx",
   ],
   theme: {
     extend: {},
